@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://username.github.io/MyPortfolioSite/sitemap.xml
+Sitemap: https://kosudaamada90-cyber.github.io/MyPortfolioSite/
+
